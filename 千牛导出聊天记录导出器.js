@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         千牛聊天记录导出器 Excel原始逐条完整版
+// @name         千牛聊天记录导出器 Excel
 // @namespace    https://tampermonkey.net/
 // @version      5.5
 // @description  仅在千牛聊天记录查询内层页面运行，按原始顺序逐条导出聊天记录为 Excel；一个客户一个工作表；不限制、不过滤营销信息
